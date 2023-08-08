@@ -1,0 +1,57 @@
+.cardgeral{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+.card {
+    display: flex;
+    position: relative;
+    border: 1px #F9F9F9 solid;
+    height: 493px;
+    width: 600px;
+    border-radius: 10px;
+    margin-right: 50px;
+    flex-direction: column;
+}
+
+.image {
+    width: 100%;
+    border-radius: 10px;
+    border-bottom-left-radius: 0px;
+    border-bottom-right-radius: 0px;
+}
+
+.link {
+    text-decoration: none;
+}
+
+.generaltext {
+    color: #F9F9F9;
+    font-size: 26px;
+}
+
+.description {
+    color: #D9C7C7;
+    font-size: 20px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #FFF;
+    text-align: center;
+    font-style: normal;
+    font-weight: 300;
+    line-height: normal;
+    font-size:17px;
+}
+
+.generaltext,
+.description {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}

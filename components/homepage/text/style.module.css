@@ -1,0 +1,8 @@
+.text {
+    padding: 16px;
+    position: relative;
+    top: 20vh;
+    font-size: 96px;
+    color: #F5EBF3;
+    font-weight: 700;
+}

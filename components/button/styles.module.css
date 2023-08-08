@@ -1,0 +1,25 @@
+.button {
+    border-radius: 20px;
+    border: solid white 2px;
+    display: flex;
+    font-size: 32px;
+    padding: 16px;
+    position: relative;
+    margin-right: 25px;
+    top: 20vh;
+    border-color: #8E83AB;
+}
+
+.buttonlink {
+    text-decoration: none;
+    color: #CBC2DD;
+}
+
+.buttonborder {
+    align-items: center;
+    display: flex;
+    height: 30px;
+    justify-content: center;
+    width: 350px;
+
+}

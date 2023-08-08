@@ -1,0 +1,44 @@
+.nav {
+    padding: 26px;
+    display: flex;
+    font-size: 36px;
+    justify-content: space-between;
+    align-items: center;
+    position: relative;
+    font-weight: 600;
+}
+
+.nav {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    z-index: 999;
+
+}
+
+
+.nav img {
+    position: absolute;
+    top: 10vh;
+    width: 100%;
+    left: 0px;
+}
+
+.navlink {
+    position: relative;
+    margin: 51px;
+    text-decoration: none;
+    color: #F5EBF3;
+
+}
+
+.navsoon {
+    margin-left: 16px;
+    color: #F5EBF3;
+}
+
+
+.navlink :hover {
+    color: white;
+}

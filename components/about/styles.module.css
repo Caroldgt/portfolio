@@ -1,0 +1,28 @@
+.background{
+    align-items: center;
+    display: flex;
+    height: 100%;
+    justify-content: center;
+    width: 100%;
+
+}
+
+
+.border {
+    border-radius: 30px;
+    border: solid white 2px;
+    position: relative;
+    width: 176vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.text{
+    color: white;
+    display: flex;
+    font-size: 19px;
+    font-weight: 200;
+    padding: 16px;
+}
+

@@ -29,7 +29,7 @@ function Contact() {
                     </Link>
                 </div>
                 <Link href={"https://media.tenor.com/NlMWoX5pQiEAAAAd/axolotl-minecraft.gif"} target="_blank">
-                    <img src="/img/minecraft-axolotl-bucket-512x512.png" alt />
+                    <img src="/img/minecraft-axolotl-bucket-512x512.png" alt = "ssdaskd" />
                 </Link>
             </div>
             <span className={styles.footer}>© 2023 Carol Portfólio. Todos os direitos reservados.</span>
